@@ -1,6 +1,5 @@
 # empty
-
-sist12_class
+ 
 SIST12 Class 20200303_20200813 ( 5.5개월 ) 자바 기반 모바일 융합 SW 개발자 양성 과정
 
 - Open JDK
