@@ -23,5 +23,8 @@ public class App
         //          Add Pattern
         //             */classes
         //             */classes/**
+        
+        // revert/  reset
+        //  soft,mixed,hard  옵션
     }
 }
