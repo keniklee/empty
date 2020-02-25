@@ -11,6 +11,8 @@ public class App
         System.out.println( "Hello World!" );
         
         //  Git 설명을 위해 한 줄 코딩 수정.....
-        System.out.println( "Hello World!" );        
+        System.out.println( "Hello World!" );       
+        
+        // Synchronize WorkSpace 테스트
     }
 }
